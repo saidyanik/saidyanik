@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a 22 yo CS Student based in Irvine,CA. Interested in almost any kind of visual art, electronics and coding. takes everything with a grain of salt. If I look familiar, you most probably saw me at a thrift store or swap meet. Next time come say Hi!
 
 <!--
 **saidyanik/saidyanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
